@@ -29,7 +29,7 @@ Atualmente estou focado em:
 
 ### 📫 Como me encontrar
 - [GitHub](https://github.com/ClaudioAMF1)
-- [LinkedIn](linkedin.com/in/cgfm1) 
+- [LinkedIn](https://www.linkedin.com/in/cgfm1/) 
 - Email: cmeireles756@gmail.com
 
 ---
