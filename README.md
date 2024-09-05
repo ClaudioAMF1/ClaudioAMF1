@@ -5,9 +5,18 @@
 Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 3º semestre do curso de Engenharia de Software e sempre buscando aprender e evoluir minhas habilidades.
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** C, C++, Python, Java, HTML, CSS, JavaScript
-- **Ferramentas:** Git, GitHub, VS Code
-
+![C](https://img.shields.io/badge/Language-C-blue)
+![C++](https://img.shields.io/badge/Language-C++-purple)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
+![Java](https://img.shields.io/badge/Language-Java-red)
+![HTML](https://img.shields.io/badge/Markup-HTML-red)
+![CSS](https://img.shields.io/badge/Style-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
+![GitHub](https://img.shields.io/badge/Code-GitHub-black)
+![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue)
+![Anaconda](https://img.shields.io/badge/Tool-Anaconda-green)
+---
 ### 🚀 Projetos em Destaque
 Aqui estão alguns projetos em que estou trabalhando ou que finalizei recentemente:
 
@@ -20,6 +29,9 @@ Atualmente estou focado em:
 - **Machine Learning:** Explorando algoritmos e aplicações práticas.
 - **Programação Orientada a Objetos com Java:** Aprofundando conceitos de POO.
 - **C++ com TAA:** Estudo de Estruturas de Dados e Algoritmos.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 💡 Interesses
 - Desenvolvimento de Software
@@ -35,3 +47,7 @@ Atualmente estou focado em:
 ---
 
 Obrigado por visitar meu perfil! Vamos colaborar e aprender juntos!
+
+
+
+
