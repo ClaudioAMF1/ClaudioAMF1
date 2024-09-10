@@ -29,8 +29,9 @@ Atualmente estou focado em:
 - **Machine Learning:** Explorando algoritmos e aplicações práticas.
 - **Programação Orientada a Objetos com Java:** Aprofundando conceitos de POO.
 - **C++ com TAA:** Estudo de Estruturas de Dados e Algoritmos.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 
+### 💻 Tecnologias que Uso
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&layout=compact&theme=radical&langs_count=8&hide_border=true)
 
 
 ### 💡 Interesses
