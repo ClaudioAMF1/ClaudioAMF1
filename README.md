@@ -39,6 +39,7 @@ Atualmente estou focado em:
 - Inteligência Artificial
 - Desenvolvimento Web
 - Ciência de Dados
+- Desenvolvimento java
 
 ### 📫 Como me encontrar
 - [GitHub](https://github.com/ClaudioAMF1)
