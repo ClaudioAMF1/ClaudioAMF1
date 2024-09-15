@@ -9,6 +9,7 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 ![C++](https://img.shields.io/badge/Language-C++-purple)
 ![Python](https://img.shields.io/badge/Language-Python-yellow)
 ![Java](https://img.shields.io/badge/Language-Java-red)
+![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![HTML](https://img.shields.io/badge/Markup-HTML-red)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
