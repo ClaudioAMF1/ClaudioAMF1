@@ -15,7 +15,6 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
 ![GitHub](https://img.shields.io/badge/Code-GitHub-black)
-![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue)
 
 ---
 ### 🚀 Projetos em Destaque
