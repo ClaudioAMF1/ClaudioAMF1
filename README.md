@@ -1,4 +1,4 @@
-# Olá, eu sou Claudio! 👋
+# Olá, eu sou Claudio! 👋🏼
 
 ### 🎓 Estudante de Engenharia de Software | 3º Semestre
 
