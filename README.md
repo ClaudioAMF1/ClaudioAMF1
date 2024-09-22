@@ -31,7 +31,7 @@ Atualmente estou focado em:
 - **C++ com TAA:** Estudo de Estruturas de Dados e Algoritmos.
 - **Banco de dados:** Utilizando MySQL para armazenar e manipular dados.
 
-### 💻 Tecnologias que Uso
+### 💻 Linguagens que Uso
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&layout=compact&theme=radical&langs_count=8&hide_border=true)
 
 
