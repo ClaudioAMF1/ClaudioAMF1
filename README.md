@@ -28,7 +28,7 @@ Aqui estão alguns projetos em que estou trabalhando ou que finalizei recentemen
 Atualmente estou focado em:
 - **Machine Learning:** Explorando algoritmos e aplicações práticas.
 - **Programação Orientada a Objetos com Java:** Aprofundando conceitos de POO.
-- **C++ com TAA:** Estudo de Estruturas de Dados e Algoritmos.
+- **C++ em Técnicas de Programação** Estudo de Estruturas de Dados e Algoritmos.
 - **Banco de dados:** Utilizando MySQL para armazenar e manipular dados.
 
 ### 💻 Linguagens que Uso
