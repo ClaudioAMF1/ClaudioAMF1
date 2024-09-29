@@ -32,8 +32,8 @@ Atualmente estou focado em:
 ### 📫 Como me encontrar
 - [GitHub](https://github.com/ClaudioAMF1)
 - [LinkedIn](https://www.linkedin.com/in/cgfm1/) 
-- Email: cmeireles756@gmail.com
 - [Clique aqui para baixar meu currículo](./Curriculo-Claudio-Meireles.pdf)
+- Email: cmeireles756@gmail.com
 
 ---
 
