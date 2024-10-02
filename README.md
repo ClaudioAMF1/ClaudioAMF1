@@ -26,7 +26,7 @@ Atualmente estou focado em:
 - **Banco de dados:** Utilizando MySQL para armazenar e manipular dados.
 
 ### 💻 Linguagens que Uso
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&layout=compact&theme=radical&langs_count=8&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&hide=jupyter%20notebook&layout=compact)
 
 
 ### 📫 Como me encontrar
