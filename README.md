@@ -12,7 +12,6 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![HTML](https://img.shields.io/badge/Markup-HTML-red)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
 ![GitHub](https://img.shields.io/badge/Code-GitHub-black)
 
