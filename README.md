@@ -21,7 +21,7 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 Atualmente estou focado em:
 - **Machine Learning:** Explorando algoritmos e aplicações práticas.
 - **Programação Orientada a Objetos com Java:** Aprofundando conceitos de POO.
-- **C++ em Técnicas de Programação** Estudo de Estruturas de Dados e Algoritmos.
+- **C++ e Python em Técnicas de Programação** Estudo de Estruturas de Dados e Algoritmos.
 - **Banco de dados:** Utilizando MySQL para armazenar e manipular dados.
 
 ### 💻 Linguagens que Uso
