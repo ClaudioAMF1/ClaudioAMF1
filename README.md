@@ -36,7 +36,7 @@ Atualmente estou focado em:
 
 ---
 
-Obrigado por visitar meu perfil! Vamos colaborar juntos!
+Obrigado por visitar meu perfil! Vamos colaborar e aprender juntos!
 
 
 
