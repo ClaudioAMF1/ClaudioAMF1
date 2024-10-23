@@ -3,7 +3,7 @@
 
 Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 3º semestre do curso de Engenharia de Software e sempre buscando aprender e evoluir minhas habilidades.
 
-### 🛠️ Tecnologias & Ferramentas:
+### 🛠️ Tecnologias & Ferramentas
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,17 +18,15 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ClaudioAMF1&theme=dark&hide_border=true)
 
 
-
-
-### 📚 Atualmente focado em:
+### 📚 Atualmente focado em
 - **Machine Learning:** Desenvolvendo modelos para aplicações práticas usando Python.
 - **POO com Java:** Construindo projetos orientados a objetos para melhorar minha compreensão de design e padrões de software.
 - **Estruturas de Dados com C++:** Implementando algoritmos clássicos e avançados para otimização de desempenho.
 - **Banco de Dados:** Trabalhando com MySQL para criar, gerenciar e manipular dados.
 
 
-### 📜 Certificações:
-- [![Udemy Badge](https://img.shields.io/badge/Udemy-Algoritmos_e_Lógica_de_Programação-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-7a341365-4841-4736-91e4-a1eb14b20bf1/)   [![Udemy Badge](https://img.shields.io/badge/Udemy-Java_COMPLETO_POO_+_Projetos-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3c4a88d1-b3c7-405c-999f-513e5b0181ae/)
+### 📜 Certificações
+[![Udemy Badge](https://img.shields.io/badge/Udemy-Algoritmos_e_Lógica_de_Programação-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-7a341365-4841-4736-91e4-a1eb14b20bf1/)   [![Udemy Badge](https://img.shields.io/badge/Udemy-Java_COMPLETO_POO_+_Projetos-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3c4a88d1-b3c7-405c-999f-513e5b0181ae/)
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cgfm1/)
