@@ -1,5 +1,4 @@
 # Olá, eu sou Claudio! 👋
-
 ### Desenvolvedor em crescimento | Estudante de Engenharia de Software | Explorando o mundo da tecnologia
 
 Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 3º semestre do curso de Engenharia de Software e sempre buscando aprender e evoluir minhas habilidades.
@@ -16,7 +15,8 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ClaudioAMF1&theme=dark&hide_border=true)
+
 
 
 
