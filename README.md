@@ -28,7 +28,7 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 
 
 ### 📜 Certificações:
-- [![Udemy Badge](https://img.shields.io/badge/Udemy-Algoritmos_e_Lógica_de_Programação-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-7a341365-4841-4736-91e4-a1eb14b20bf1/)
+- [![Udemy Badge](https://img.shields.io/badge/Udemy-Algoritmos_e_Lógica_de_Programação-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-7a341365-4841-4736-91e4-a1eb14b20bf1/)   [![Udemy Badge](https://img.shields.io/badge/Udemy-Java_COMPLETO_POO_+_Projetos-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3c4a88d1-b3c7-405c-999f-513e5b0181ae/)
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cgfm1/)
