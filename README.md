@@ -1,5 +1,5 @@
 # Olá, eu sou Claudio! 👋
-### Desenvolvedor em crescimento | Estudante de Engenharia de Software | Explorando o mundo da tecnologia
+### Dev. em crescimento | Estudante de Engenharia de Software | Explorando o mundo da tecnologia
 
 Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 3º semestre do curso de Engenharia de Software e sempre buscando aprender e evoluir minhas habilidades.
 
