@@ -15,7 +15,8 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ClaudioAMF1&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioAMF1&show_icons=true&theme=dark&hide_border=true)
+
 
 
 ### 📚 Atualmente focado em
