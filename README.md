@@ -38,9 +38,9 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 [![Download CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](./Curriculo-Claudio-Meireles.pdf)
 
 
----
 
-Obrigado por visitar meu perfil! Vamos colaborar e aprender juntos!
+
+
 
 
 
