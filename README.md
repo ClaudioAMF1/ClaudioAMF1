@@ -1,7 +1,7 @@
 # Olá, eu sou Claudio! 👋🏼    
 ### Dev. em crescimento | Estudante de Engenharia de Software | Explorando o mundo da tecnologia
 
-Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 3º semestre do curso de Engenharia de Software e sempre buscando aprender e evoluir minhas habilidades.
+Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 4º semestre do curso de Engenharia de Software e sempre buscando aprender e evoluir minhas habilidades.
 
 ### 🛠️ Tecnologias & Ferramentas
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -16,14 +16,6 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de software. Atualm
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioAMF1&show_icons=true&theme=dark&hide_border=true)
-
-
-
-### 📚 Atualmente focado em
-- **Machine Learning:** Desenvolvendo modelos para aplicações práticas usando Python.
-- **POO com Java:** Construindo projetos orientados a objetos para melhorar minha compreensão de design e padrões de software.
-- **Estruturas de Dados com C++:** Implementando algoritmos clássicos e avançados para otimização de desempenho.
-- **Banco de Dados:** Trabalhando com MySQL para criar, gerenciar e manipular dados.
 
 
 ### 📜 Certificações
