@@ -30,7 +30,7 @@ Durante minha trajetória acadêmica, venho desenvolvendo habilidades em diversa
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioAMF1&show_icons=true&theme=dark&hide_border=true)
 
 ## 🎓 Minha Jornada de Aprendizado
-Além da formação acadêmica, busco constantemente expandir meus conhecimentos através de cursos e projetos práticos. Atualmente, estou me dedicando a diversas áreas:
+Atualmente, estou me dedicando a diversas áreas:
 
 - **Docker e MongoDB**: Aprofundando conhecimentos em contêinerização e bancos de dados NoSQL
 - **Inteligência Artificial**: Explorando conceitos e aplicações práticas de IA
@@ -45,14 +45,6 @@ Acredito que essa combinação de conhecimentos proporciona uma visão mais comp
 [![Udemy Badge](https://img.shields.io/badge/Udemy-Java_COMPLETO_POO_+_Projetos-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-3c4a88d1-b3c7-405c-999f-513e5b0181ae/) 
 [![Udemy Badge](https://img.shields.io/badge/Udemy-iOS_&_Swift_The_Complete_iOS_App_Development_Bootcamp-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-13962c5a-48a2-4140-8c75-9bc923aa3784/) 
 [![Udemy Badge](https://img.shields.io/badge/Udemy-Mastering_Data_Structures_&_Algorithms_using_C_and_C++-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-1590a13f-004b-45df-904c-384295ad9dbd/)
-
-## 🔍 Interesses profissionais
-Tenho interesse em:
-- Projetos que envolvam soluções criativas
-- Ambientes que valorizem aprendizado contínuo
-- Desafios técnicos em desenvolvimento de software
-- Contribuir em equipes multidisciplinares
-- Expandir conhecimentos tanto em hard quanto soft skills
 
 ## 📫 Vamos conversar?
 
