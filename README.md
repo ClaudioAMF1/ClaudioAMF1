@@ -2,7 +2,7 @@
 ### Desenvolvedor em formação | Estudante de Engenharia de Software | Entusiasta de Tecnologia
 
 ## Quem sou eu
-Estudante do 4º semestre de Engenharia de Software, interessado em resolver problemas reais através da tecnologia. Busco constantemente novos desafios técnicos e oportunidades para aplicar o conhecimento adquirido em projetos práticos.
+Estudante do 5º semestre de Engenharia de Software, interessado em resolver problemas reais através da tecnologia. Busco constantemente novos desafios técnicos e oportunidades para aplicar o conhecimento adquirido em projetos práticos.
 
 Durante minha trajetória acadêmica, venho desenvolvendo habilidades em diversas linguagens e tecnologias, sempre com foco em boas práticas e código de qualidade.
 
@@ -29,16 +29,6 @@ Durante minha trajetória acadêmica, venho desenvolvendo habilidades em diversa
 ## 📊 Estatísticas GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&langs_count=8&theme=radical&hide_border=true&title_color=FF5733&icon_color=FFC300&layout=compact&hide=Jupyter%20Notebook) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClaudioAMF1&show_icons=true&theme=dark&hide_border=true)
 
-## 🎓 Minha Jornada de Aprendizado
-Atualmente, estou me dedicando a diversas áreas:
-
-- **Docker e MongoDB**: Aprofundando conhecimentos em contêinerização e bancos de dados NoSQL
-- **Inteligência Artificial**: Explorando conceitos e aplicações práticas de IA
-- **Redes de Computadores**: Estudando protocolos, configurações e segurança de redes
-- **Oficina e Arquitetura de Equipamentos de TI**: Aprendendo sobre hardware, montagem e manutenção de equipamentos
-- **Processamento de Imagens 3D**: Estudando técnicas de renderização, modelagem e manipulação de imagens tridimensionais
-
-Acredito que essa combinação de conhecimentos proporciona uma visão mais completa do ecossistema tecnológico.
 
 ### 📜 Certificações
 [![Udemy Badge](https://img.shields.io/badge/Udemy-Algoritmos_e_Lógica_de_Programação-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-7a341365-4841-4736-91e4-a1eb14b20bf1/)   
