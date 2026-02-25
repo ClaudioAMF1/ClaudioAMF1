@@ -65,8 +65,8 @@ Construo pipelines de **Big Data**, sistemas de **Visão Computacional** e aplic
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ClaudioAMF1&show_icons=true&theme=react&border_color=1A6DFF&border_radius=10&bg_color=0D1117&title_color=C822FF&icon_color=1A6DFF&text_color=CCCCCC&include_all_commits=true&count_private=true" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAMF1&layout=compact&langs_count=8&theme=react&border_color=1A6DFF&border_radius=10&bg_color=0D1117&title_color=C822FF&icon_color=1A6DFF&text_color=CCCCCC&hide=Jupyter%20Notebook" alt="langs"/>
+
+
 
 <br/>
 
