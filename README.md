@@ -21,14 +21,14 @@
 
 <div align="center">
 
-| | |
-|:--|:--|
-| 🎓 &nbsp;**Formação** | Ciência da Computação + Engenharia de Software · IDP &nbsp;`6º semestre` |
-| 🧩 &nbsp;**Foco atual** | Sistemas distribuídos, streaming de dados e arquitetura de microserviços |
-| ☁️ &nbsp;**Cloud** | AWS Academy Graduate — *Cloud Security Foundations* |
-| 🏆 &nbsp;**Reconhecimento** | Melhor **Scrum Master** em projeto acadêmico (IDP) |
-| 📍 &nbsp;**Localização** | Brasília — DF, Brasil 🇧🇷 |
-| 🗣️ &nbsp;**Idiomas** | Português `nativo` · Inglês `fluente` |
+<table>
+  <tr><td>🎓 &nbsp;<b>Formação</b></td><td>Ciência da Computação + Engenharia de Software · IDP &nbsp;<code>6º semestre</code></td></tr>
+  <tr><td>🧩 &nbsp;<b>Foco atual</b></td><td>Sistemas distribuídos, streaming de dados e arquitetura de microserviços</td></tr>
+  <tr><td>☁️ &nbsp;<b>Cloud</b></td><td>AWS Academy Graduate — <i>Cloud Security Foundations</i></td></tr>
+  <tr><td>🏆 &nbsp;<b>Reconhecimento</b></td><td>Melhor <b>Scrum Master</b> em projeto acadêmico (IDP)</td></tr>
+  <tr><td>📍 &nbsp;<b>Localização</b></td><td>Brasília — DF, Brasil 🇧🇷</td></tr>
+  <tr><td>🗣️ &nbsp;<b>Idiomas</b></td><td>Português <code>nativo</code> · Inglês <code>fluente</code></td></tr>
+</table>
 
 </div>
 
