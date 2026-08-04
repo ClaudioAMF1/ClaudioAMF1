@@ -22,7 +22,7 @@
 <div align="center">
 
 <table>
-  <tr><td>🎓 &nbsp;<b>Formação</b></td><td>Ciência da Computação + Engenharia de Software · IDP &nbsp;<code>6º semestre</code></td></tr>
+  <tr><td>🎓 &nbsp;<b>Formação</b></td><td>Ciência da Computação · IDP &nbsp;<code>7º semestre</code></td></tr>
   <tr><td>🧩 &nbsp;<b>Foco atual</b></td><td>Sistemas distribuídos, streaming de dados e arquitetura de microserviços</td></tr>
   <tr><td>☁️ &nbsp;<b>Cloud</b></td><td>AWS Academy Graduate — <i>Cloud Security Foundations</i></td></tr>
   <tr><td>🏆 &nbsp;<b>Reconhecimento</b></td><td>Melhor <b>Scrum Master</b> em projeto acadêmico (IDP)</td></tr>
@@ -132,13 +132,16 @@ Visão computacional em tempo real: detecção e tracking de jogadores e bola, c
 ## &nbsp;💼&nbsp; Trajetória
 
 ```text
+2026 ── Estagiário de Tecnologia e Dados · VM Medicina e Saúde Mental
+   │     Responsável pela estruturação completa da área de tecnologia da clínica     
+   │
 2025 ── Estagiário de TI · RBCIP — Rede Brasileira de Certificação, Pesquisa e Inovação
    │     Backend em Python/Flask, modelagem PostgreSQL e APIs REST para +8.000 alunos
    │
 2024 ── Monitor de Cálculo I · IDP
    │     Apoio acadêmico em tópicos complexos e material didático complementar
    │
-2023 ── Bacharelado em Ciência da Computação + Engenharia de Software · IDP
+2023 ── Bacharelado em Ciência da Computação · IDP
          Em andamento — conclusão prevista para 2027
 ```
 
