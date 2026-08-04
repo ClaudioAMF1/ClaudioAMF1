@@ -41,7 +41,7 @@
 <table>
 <tr>
 <td align="center" width="190"><b>Linguagens</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,swift&theme=dark"/></td>
+<td><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,swift&theme=dark" alt="Languages"/></td>
 </tr>
 <tr>
 <td align="center"><b>Backend &amp; Web</b></td>
